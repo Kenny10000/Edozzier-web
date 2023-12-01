@@ -1,0 +1,158 @@
+body{
+    overflow-x: hidden;
+} 
+ .top-link{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+}
+
+.btn-top{
+    background-color: #0f0a46;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+}
+.btn-top-2{
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    color: #0f0a46;
+}
+.top-link-right{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    color: #000;
+
+}
+
+@media (max-width: 990px) {
+    .top-error{
+display: none;   
+    }
+}  
+
+
+@media (max-width: 780px) {
+    .all-top-link{
+        align-items: center;
+    } 
+} 
+.text-bg-top{
+    color: #0f0a46;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+}
+.text-bg-top-2{
+    color: #0f0a46;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.text-sm-top{
+    font-weight: lighter;
+   color: #0f0a46;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+@media (max-width: 450px) {
+    .text-bg-top{
+        font-size: 80PX;
+    }
+}  
+@media (max-width: 480px) {
+    .text-sm-top{
+        font-size: 40PX;
+    }
+     }
+.cards :hover{
+    background-color: #0f0a46;
+    color: #fff;
+} 
+
+.top-btc{
+    background-color:#fff;
+    color: #01218a;
+    padding: 20px;
+    border-radius: 10px;
+    width: 150px;
+    border: none;
+}
+@media (max-width: 990px) {
+    .first-img{
+        width: 700px;
+        padding-top: 30px;
+    }
+}  
+@media (max-width: 756px) {
+    .first-img{
+        width: 600px;
+        padding-top: 30px;
+    }
+}  
+
+@media (max-width: 1300px) {
+    .all-start{
+padding-top: 150px;       
+    }
+} 
+
+/* @media (max-width: 590px) {
+    .all-text-cen{
+font-weight: 1000px;
+    }
+}  */
+
+ /*
+     .all-start{
+        background-color: #f1f2fe;
+     }
+     .color{
+        color: #0f0a46;
+     }
+     .color-bold{
+        color: #0f0a46;
+        font-weight: bolder;
+     }
+
+     .link-btw{
+        text-decoration: none;
+        color: #0f0a46;
+        font-weight: bold;
+        
+     }
+     /* @media (max-width: 1200px) {
+        .all-start{
+           background-color: #fff;
+        } 
+         } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
